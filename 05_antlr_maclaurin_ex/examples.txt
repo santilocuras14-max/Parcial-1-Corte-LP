@@ -1,3 +1,4 @@
 maclaurin(n=0, x=0.0);
 maclaurin(n=5, x=1.0);
 maclaurin(n=10, x=1.5);
+maclaurin(n=15, x=2.0);
