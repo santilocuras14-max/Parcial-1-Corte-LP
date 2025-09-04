@@ -1,7 +1,5 @@
 # Parcial 1 — Lenguajes de Programación
 
-Este repositorio contiene respuestas completas y listas para compilar/ejecutar de los 5 puntos del parcial.
-
 > **Estructura**  
 ```
 .
@@ -15,18 +13,13 @@ Este repositorio contiene respuestas completas y listas para compilar/ejecutar d
 │   ├── calc.y
 │   ├── input.txt
 │   └── README.md
-├── 04_euclid_perf_C_vs_HS
-│   ├── euclid.c
-│   ├── euclid.hs
-│   ├── run_c.sh
-│   ├── run_hs.sh
-│   └── ANALISIS.md
-└── 05_antlr_maclaurin_ex
-    ├── ExMaclaurin.g4
-    ├── Main.java
-    ├── build.sh
-    ├── run.sh
-    └── examples.txt
+└── 04_euclid_perf_C_vs_HS
+    ├── euclid.c
+    ├── euclid.hs
+    ├── run_c.sh
+    ├── run_hs.sh
+    └── ANALISIS.md
+
 ```
 ---
 
@@ -58,5 +51,3 @@ Este repositorio contiene respuestas completas y listas para compilar/ejecutar d
 - Gramática `ExMaclaurin.g4` y programa Java `Main.java` que parsea entradas tipo `maclaurin(n=10, x=1.5);` y calcula
   \(\sum_{k=0}^n \frac{x^k}{k!}\).
 - Requiere ANTLR 4 (Java). Script `build.sh` y `run.sh` incluidos.
-
-> **Nota**: Donde aplica, se incluyeron ejemplos y pruebas mínimas. Ajusta nombres si tu profe exige convenciones específicas.
