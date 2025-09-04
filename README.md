@@ -49,7 +49,7 @@
   ```
 
 ## 4) Rendimiento de Euclides recursivo: C (imperativo) vs Haskell (declarativo)
-- Código en `04_euclid_perf_C_vs_HS/`. Incluye scripts `run_c.sh` y `run_hs.sh` para compilar/medir tiempo.
+
 
 ## 5) ANTLR: primeros *n* términos de la serie de Maclaurin de **e^x**
 - Gramática `ExMaclaurin.g4` y programa Java `Main.java` que parsea entradas tipo `maclaurin(n=10, x=1.5);` y calcula
